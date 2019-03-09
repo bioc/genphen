@@ -2,8 +2,20 @@
 .Rhistory
 .RData
 .Ruserdata
-genphen_bioconductor.Rproj
+*.Rproj
+
 .Rbuildignore
 my.tests/
 README.md
-genphen_github.Rproj
+
+
+# test
+src/genphen.so
+src/init.o
+src/stan_files/*.hpp
+src/stan_files/*.o
+src/stan_files/*.cc
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
