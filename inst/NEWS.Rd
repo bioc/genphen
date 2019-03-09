@@ -4,10 +4,12 @@
 
 
 
-\section{Changes in genphen version 1.9 (2018-10-20)}{
+\section{Changes in genphen version 1.10.1 (2019-03-03)}{
 
   \subsection{Changes:}{
     \itemize{
+      \item Multiple traits (quantitative and dichotomous) handled
+      \item Speed-up
       \item Bayesian hierarchical model implemented => multiple comparison solved
       \item Transition from effect size metrics to GLMs
       \item Posterior predictive checks automatic
